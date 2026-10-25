@@ -1,2 +1,6 @@
 # HTTP-404-Error-when-trying-to-automatically-install-Java-25
 Error Message: Failed to install Java: Server returned HTTP 404 (Not Found) dla URL: https://github.com...
+Environment:
+- Device: Monitored Chromebook (ChromeOS)
+- Modpack: Fabulously Optimized (Minecraft Fabric 1.22+)
+- Launcher: Onyx Launcher
